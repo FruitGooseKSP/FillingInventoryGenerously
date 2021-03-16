@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FillingInventoryGenerously")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("KSP Addon")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("FillingInventoryGenerously")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright © 2021 James Ford (FruitGoose)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
